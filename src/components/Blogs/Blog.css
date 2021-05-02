@@ -1,0 +1,20 @@
+.blog-area img{
+    height: 200px;
+}
+.blog-area{
+    text-align:center;
+    padding: 10px; 
+    background-color:white;
+}
+.blog-area:hover{
+    background-color: salmon;
+    box-shadow: 3px 5px 5px 0px lightgrey;
+}
+.blog-area:hover p{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+}
+.blog-area p{
+    color:salmon;
+}

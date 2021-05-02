@@ -1,0 +1,9 @@
+.about-area{
+   text-align: center;
+   color:#659dbd;
+}
+.about-details p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
