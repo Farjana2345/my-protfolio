@@ -1,6 +1,6 @@
 # Website
   ### Farjana Akter
-    https://my-protfolio-db2cf.web.app/
+  https://my-protfolio-db2cf.web.app/
 
 # Built With
 My personal portfolio soumyajit.tech which features some of my github projects as well as my resume and technical skills.
